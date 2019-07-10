@@ -13,7 +13,7 @@ BUILD_RUBY_VERSION := 2.6.3
 # Adding a component or upgrading a component to a backwards compatible release should constitute a minor release.
 # Fixing bugs or making trivial changes should be considered a patch release.
 
-DOCKER_TAG_VERSION_TERRAFORM := 2.1.0
+DOCKER_TAG_VERSION_TERRAFORM := 2.2.0
 DOCKER_TAG_VERSION_KITCHEN_TERRAFORM := 2.1.0
 
 REGISTRY_URL := gcr.io/cloud-foundation-cicd
